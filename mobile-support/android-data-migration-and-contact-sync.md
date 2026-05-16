@@ -54,3 +54,6 @@ When helping a user with account or contact issues, confirm with the user before
 - SIM card transfer
 - Mobile device troubleshooting
 - Contact synchronization troubleshooting
+- Google/Samsung account troubleshooting
+- End-user technical support
+- Clear technical documentation
