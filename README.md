@@ -4,7 +4,7 @@
 
 This repository contains standardized troubleshooting runbooks and incident-style documentation for common IT Support and Help Desk scenarios.
 
-The purpose of this knowledge base is to document clear triage steps, likely causes, remediation actions, verification checks, and support handoff notes. The examples are written in an employer-facing support style and are intended to show practical troubleshooting judgment, not just technical commands.
+The purpose of this knowledge base is to document clear triage steps, likely causes, remediation actions, verification checks, and support handoff notes. The examples demonstrate practical troubleshooting judgment, clear escalation boundaries, and repeatable technical handoffs rather than command-only fixes.
 
 ---
 
